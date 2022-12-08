@@ -6,8 +6,9 @@
 
 <div>
 <a href= "https://beacons.ai/dosluana">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=dosluana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viieirama&layout=compact&langs_count=7&theme=dark&include"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=dosluana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosluana&layout=compact&langs_count=7&theme=dark&include"/>
+</div>
   
 </div>
   
