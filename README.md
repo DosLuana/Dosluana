@@ -1,4 +1,4 @@
-### Oii! Eu sou a dos Luana 
+### Oii! Eu sou a Luana 
 
 
 - 🌱 Estudando na Fatec-Itu
