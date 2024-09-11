@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando na Fatec-Itu
-- 😄 Pronouns: ela/dela
+
 
 <div>
 <a href= "https://beacons.ai/dosluana">
